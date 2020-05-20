@@ -1,0 +1,104 @@
+#outermainmenu {
+    background: none !important;
+}
+.flex-caption h1, .flex-caption a {
+    color: #ffffff !important;
+}
+#logo {
+    background: url('images/bg-logo.png') no-repeat bottom !important;
+}
+
+ a:link, a:visited  {
+	color: #ffffff !important;
+}
+.menu-linker a:link  {
+	color: #ffffff !important;
+}
+#menu-linker a:link, a:hover   {
+	color: #d0353a;
+}
+#footer-linker a:link, a:visited,   {
+	color: #ffffff !important;
+}
+#footer-linker a:link, a:hover,  {
+	color: #d0353a;
+}
+#outerbeforecontent h1 {
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #070707;
+}
+.slider-pattern {
+    background: url('images/slider-pattern.html');
+}
+.flex-control-nav {
+    width: 77%;
+    position: absolute;
+    bottom: 2px !important;
+    text-align: right;
+    z-index: 5;
+}
+body {
+    color: #000 !important;
+    background: #c7c7c5;
+	background-image: none !important;
+}
+.flex-control-paging li a.flex-active {
+    background: url('images/slider-nav-h.png'); no-repeat !important;
+}
+.flex-control-paging li a:hover {
+    background: url('images/slider-nav-h.png'); no-repeat !important;
+}
+#topnav li a:hover, #topnav li.current > a {
+    color: #000 !important;
+}
+#footer-nav a:hover {
+    color: #CB3537 !important;
+}
+
+.button:hover, input[type="submit"]:hover, .more-link:hover {
+    background-color: #CB3537 !important;
+}
+hr {
+    border-width: 0;
+    height: 2px !important;
+    line-height: 0;
+    margin: 0px;
+    margin-bottom: 40px;
+    page-break-after: always;
+    text-align: center;
+    width: 100%;
+    clear: both;
+}
+tr td {
+    border-bottom: 0px solid #d7dad1 !important;
+    border-right: 0px solid #d7dad1 !important;
+    background: #fff;
+}
+.blogo a:link, .blogo a:visited {
+    color: #d0353a !important;
+}
+.colortext {
+    color: #d0353a;
+}
+.sf-menu > li.space {
+    padding-left: 300px !important;
+}
+.sf-menu > li {
+    position: relative;
+    z-index: 10;
+    padding-left: 20px !important;
+    float: left;
+}
+.sf-menu > li.space {
+    padding-left: 300px !important;
+}
+.sf-menu li li {
+    background: #D0353A !important;
+    font-weight: bold;
+	background-color: #D0353A !important;
+	border-top: none !important;
+	border-bottom: none !important;
+}
+.sf-menu ul {
+    background: url('images/arrow.html') no-repeat 35px 0px;
+}
